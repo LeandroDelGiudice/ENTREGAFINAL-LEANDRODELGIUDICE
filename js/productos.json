@@ -1,0 +1,116 @@
+[
+    {
+        "id": "motor-e21",
+        "titulo": "motor e21",
+        "imagen": "./img/motores/01.jpg",
+        "categoria": {
+            "nombre": "motores",
+            "id": "motores"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "motor-e36",
+        "titulo": "motor e36",
+        "imagen": "./img/motores/02.jpg",
+        "categoria": {
+            "nombre": "motores",
+            "id": "motores"
+        },
+        "precio": 1000000
+    },
+    
+    {
+        "id": "motor-e34",
+        "titulo": "motor e34",
+        "imagen": "./img/motores/03.jpg",
+        "categoria": {
+            "nombre": "motores",
+            "id": "motores"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "motor-e92",
+        "titulo": "motor e92",
+        "imagen": "./img/motores/04.jpg",
+        "categoria": {
+            "nombre": "motores",
+            "id": "motores"
+        },
+        "precio": 1000000
+    },
+    
+    
+    {
+        "id": "caja-getrag 318",
+        "titulo": "Caja getrag 318",
+        "imagen": "./img/cajas/01.jpg",
+        "categoria": {
+            "nombre": "Cajas",
+            "id": "cajas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "caja-zf 325i",
+        "titulo": "Caja zf 325i",
+        "imagen": "./img/cajas/02.jpg",
+        "categoria": {
+            "nombre": "Cajas",
+            "id": "cajas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "caja-zf m3",
+        "titulo": "Caja zf m3",
+        "imagen": "./img/cajas/03.jpg",
+        "categoria": {
+            "nombre": "Cajas",
+            "id": "cajas"
+        },
+        "precio": 500000
+    },
+   
+    {
+        "id": "difer-e46 m3",
+        "titulo": "difer e46 m3",
+        "imagen": "./img/diferenciales/01.jpg",
+        "categoria": {
+            "nombre": "diferenciales",
+            "id": "diferenciales"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "difer-z3 1999",
+        "titulo": "difer z3 1999",
+        "imagen": "./img/diferenciales/02.jpg",
+        "categoria": {
+            "nombre": "diferenciales",
+            "id": "diferenciales"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "difer-e46 325",
+        "titulo": "difer e46 325",
+        "imagen": "./img/diferenciales/03.jpg",
+        "categoria": {
+            "nombre": "diferenciales",
+            "id": "diferenciales"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "difer-e46 330c",
+        "titulo": "difer e46 330c",
+        "imagen": "./img/diferenciales/04.jpg",
+        "categoria": {
+            "nombre": "diferenciales",
+            "id": "diferenciales"
+        },
+        "precio": 300000
+    }
+]
